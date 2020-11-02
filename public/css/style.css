@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding:0;
+}
+body, html {
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-size:100%;
+    overflow: hidden;
+}
+.bloco-apresentacao{
+    margin-top: 100px;
+}
+.jumbotron a{
+    color: #212529;
+}
+.lista-contatos{
+    list-style: none;
+}
+.coluna-opc{
+    display: flex;
+}
+.coluna-opc button{
+    margin-left: 10px;
+}
